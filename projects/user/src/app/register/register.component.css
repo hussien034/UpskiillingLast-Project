@@ -1,0 +1,26 @@
+::selection{
+  background-color: aquamarine;
+}
+#register{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.matched{
+  color: red;
+}
+.btn-reg{
+  background-color: rgb(101, 101, 255);
+  color: white;
+  padding: 10px 30px;
+  border: 0px;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+}
+input{
+  background-color: white !important;
+}
+

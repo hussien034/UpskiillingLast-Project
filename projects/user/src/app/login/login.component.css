@@ -1,0 +1,16 @@
+#login{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-log{
+  background-color: rgb(101, 101, 255);
+  color: white;
+  padding: 10px 30px;
+  border: 0px;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+}

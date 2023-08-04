@@ -1,0 +1,15 @@
+
+
+.btn-add{
+  float: right;
+  background-color: blueviolet;
+  color: white;
+  padding: 10px 30px;
+  border: 0px;
+  border-radius: 10px;
+}
+.imagFromBackend{
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+}
